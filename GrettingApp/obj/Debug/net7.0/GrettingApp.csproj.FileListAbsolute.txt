@@ -1,0 +1,14 @@
+C:\Users\bjarr\source\repos\MySecondProject\GrettingApp\bin\Debug\net7.0\GrettingApp.exe
+C:\Users\bjarr\source\repos\MySecondProject\GrettingApp\bin\Debug\net7.0\GrettingApp.deps.json
+C:\Users\bjarr\source\repos\MySecondProject\GrettingApp\bin\Debug\net7.0\GrettingApp.runtimeconfig.json
+C:\Users\bjarr\source\repos\MySecondProject\GrettingApp\bin\Debug\net7.0\GrettingApp.dll
+C:\Users\bjarr\source\repos\MySecondProject\GrettingApp\bin\Debug\net7.0\GrettingApp.pdb
+C:\Users\bjarr\source\repos\MySecondProject\GrettingApp\obj\Debug\net7.0\GrettingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bjarr\source\repos\MySecondProject\GrettingApp\obj\Debug\net7.0\GrettingApp.AssemblyInfoInputs.cache
+C:\Users\bjarr\source\repos\MySecondProject\GrettingApp\obj\Debug\net7.0\GrettingApp.AssemblyInfo.cs
+C:\Users\bjarr\source\repos\MySecondProject\GrettingApp\obj\Debug\net7.0\GrettingApp.csproj.CoreCompileInputs.cache
+C:\Users\bjarr\source\repos\MySecondProject\GrettingApp\obj\Debug\net7.0\GrettingApp.dll
+C:\Users\bjarr\source\repos\MySecondProject\GrettingApp\obj\Debug\net7.0\refint\GrettingApp.dll
+C:\Users\bjarr\source\repos\MySecondProject\GrettingApp\obj\Debug\net7.0\GrettingApp.pdb
+C:\Users\bjarr\source\repos\MySecondProject\GrettingApp\obj\Debug\net7.0\GrettingApp.genruntimeconfig.cache
+C:\Users\bjarr\source\repos\MySecondProject\GrettingApp\obj\Debug\net7.0\ref\GrettingApp.dll
